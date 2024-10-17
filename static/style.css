@@ -1,0 +1,25 @@
+.bs{
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  
+}
+
+.img{
+  padding-left: 400px;
+  height: 300px;
+  width: 400px;
+}
+
+.btn{
+  font-size: 15px;
+  background-color: green;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  margin-left: 56px;
+  margin-top: 60px;
+  cursor: pointer;
+}
